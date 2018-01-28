@@ -11,5 +11,6 @@ There are 3 notebooks in this repository:
 
 This is a link to my [blog post](https://ericchan24.squarespace.com/blog/2018/1/27/classifying-animals-using-machine-learning)
 on the project.  
+
 This is a link to an [interactive app made using Dash](https://animal-classifier.herokuapp.com/)
 that shows the model in action.
